@@ -33,6 +33,15 @@ The App uses RevenueCat to manage subscriptions. RevenueCat may collect:
 - Purchase and subscription status
 - Anonymous user identifiers
 
+#### Firebase Crashlytics (Crash Reporting)
+The App uses Firebase Crashlytics to collect crash reports and diagnostic data to improve app stability. Crashlytics may collect:
+- Crash logs and stack traces
+- Device model and OS version
+- App state at the time of a crash
+
+This data is anonymous and not linked to your identity. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
+
+
 For more information, see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/).
 
 ## Camera and Photo Library Access
@@ -45,7 +54,8 @@ Photos are processed entirely on your device and are never uploaded to any serve
 
 ## Data Sharing
 
-We do **not** sell, trade, or share your personal data with third parties, except as described above through AdMob and RevenueCat services.
+We do **not** sell, trade, or share your personal data with third parties, except as described above through AdMob, RevenueCat, and Firebase Crashlytics services.
+
 
 ## Data Retention
 
